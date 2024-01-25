@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w5o1HrV/i7U2xVbzUkmW73Z82KSM1G9bZKprIfqf9LhzU1j2lJ3PsVcayniG7/INAknQC4YrGUd4j4OjnNs0uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RajdeepChakraborty\\OneDrive - Packt\\Documents\\B18069\\Codes\\09-FractalGeneration\\09-FractalGeneration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RajdeepChakraborty\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\RajdeepChakraborty\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\bin\Debug\net8.0\09-ClosestPairOfPoints.exe
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\bin\Debug\net8.0\09-ClosestPairOfPoints.deps.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\bin\Debug\net8.0\09-ClosestPairOfPoints.runtimeconfig.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\bin\Debug\net8.0\09-ClosestPairOfPoints.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\bin\Debug\net8.0\09-ClosestPairOfPoints.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\obj\Debug\net8.0\09-ClosestPairOfPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\obj\Debug\net8.0\09-ClosestPairOfPoints.AssemblyInfoInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\obj\Debug\net8.0\09-ClosestPairOfPoints.AssemblyInfo.cs
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\obj\Debug\net8.0\09-ClosestPairOfPoints.csproj.CoreCompileInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\obj\Debug\net8.0\09-ClosestPairOfPoints.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\obj\Debug\net8.0\refint\09-ClosestPairOfPoints.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\obj\Debug\net8.0\09-ClosestPairOfPoints.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\obj\Debug\net8.0\09-ClosestPairOfPoints.genruntimeconfig.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-ClosestPairOfPoints\obj\Debug\net8.0\ref\09-ClosestPairOfPoints.dll
