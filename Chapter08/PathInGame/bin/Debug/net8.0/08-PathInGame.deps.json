@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "08-PathInGame/1.0.0": {
+        "dependencies": {
+          "08-Graph": "1.0.0"
+        },
+        "runtime": {
+          "08-PathInGame.dll": {}
+        }
+      },
+      "OptimizedPriorityQueue/5.1.0": {
+        "runtime": {
+          "lib/netstandard1.0/PriorityQueue.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "08-Graph/1.0.0": {
+        "dependencies": {
+          "OptimizedPriorityQueue": "5.1.0"
+        },
+        "runtime": {
+          "08-Graph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08-PathInGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OptimizedPriorityQueue/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0AnX6kAs0GiLrSqrHKe5mpQhJSHTmXeqLNucV2CxGATP/I9UzLMc1N4MtS/z8qB6mcgX61OjHdY3YbOmETGs+A==",
+      "path": "optimizedpriorityqueue/5.1.0",
+      "hashPath": "optimizedpriorityqueue.5.1.0.nupkg.sha512"
+    },
+    "08-Graph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
