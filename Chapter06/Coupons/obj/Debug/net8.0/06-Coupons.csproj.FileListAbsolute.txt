@@ -1,0 +1,14 @@
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\bin\Debug\net8.0\06-Coupons.exe
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\bin\Debug\net8.0\06-Coupons.deps.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\bin\Debug\net8.0\06-Coupons.runtimeconfig.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\bin\Debug\net8.0\06-Coupons.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\bin\Debug\net8.0\06-Coupons.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\obj\Debug\net8.0\06-Coupons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\obj\Debug\net8.0\06-Coupons.AssemblyInfoInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\obj\Debug\net8.0\06-Coupons.AssemblyInfo.cs
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\obj\Debug\net8.0\06-Coupons.csproj.CoreCompileInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\obj\Debug\net8.0\06-Coupons.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\obj\Debug\net8.0\refint\06-Coupons.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\obj\Debug\net8.0\06-Coupons.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\obj\Debug\net8.0\06-Coupons.genruntimeconfig.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-Coupons\obj\Debug\net8.0\ref\06-Coupons.dll
