@@ -1,0 +1,14 @@
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\bin\Debug\net8.0\06-PhoneBook.exe
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\bin\Debug\net8.0\06-PhoneBook.deps.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\bin\Debug\net8.0\06-PhoneBook.runtimeconfig.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\bin\Debug\net8.0\06-PhoneBook.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\bin\Debug\net8.0\06-PhoneBook.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\obj\Debug\net8.0\06-PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\obj\Debug\net8.0\06-PhoneBook.AssemblyInfoInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\obj\Debug\net8.0\06-PhoneBook.AssemblyInfo.cs
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\obj\Debug\net8.0\06-PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\obj\Debug\net8.0\06-PhoneBook.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\obj\Debug\net8.0\refint\06-PhoneBook.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\obj\Debug\net8.0\06-PhoneBook.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\obj\Debug\net8.0\06-PhoneBook.genruntimeconfig.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\06-PhoneBook\obj\Debug\net8.0\ref\06-PhoneBook.dll
