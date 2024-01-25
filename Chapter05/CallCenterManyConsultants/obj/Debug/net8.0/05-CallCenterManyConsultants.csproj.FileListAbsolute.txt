@@ -1,0 +1,14 @@
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\bin\Debug\net8.0\05-CallCenterManyConsultants.exe
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\bin\Debug\net8.0\05-CallCenterManyConsultants.deps.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\bin\Debug\net8.0\05-CallCenterManyConsultants.runtimeconfig.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\bin\Debug\net8.0\05-CallCenterManyConsultants.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\bin\Debug\net8.0\05-CallCenterManyConsultants.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\obj\Debug\net8.0\05-CallCenterManyConsultants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\obj\Debug\net8.0\05-CallCenterManyConsultants.AssemblyInfoInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\obj\Debug\net8.0\05-CallCenterManyConsultants.AssemblyInfo.cs
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\obj\Debug\net8.0\05-CallCenterManyConsultants.csproj.CoreCompileInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\obj\Debug\net8.0\05-CallCenterManyConsultants.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\obj\Debug\net8.0\refint\05-CallCenterManyConsultants.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\obj\Debug\net8.0\05-CallCenterManyConsultants.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\obj\Debug\net8.0\05-CallCenterManyConsultants.genruntimeconfig.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\05-CallCenterManyConsultants\obj\Debug\net8.0\ref\05-CallCenterManyConsultants.dll
