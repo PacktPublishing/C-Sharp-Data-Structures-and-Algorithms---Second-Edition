@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "05-CallCenterSingleConsultant/1.0.0": {
+        "runtime": {
+          "05-CallCenterSingleConsultant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05-CallCenterSingleConsultant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
