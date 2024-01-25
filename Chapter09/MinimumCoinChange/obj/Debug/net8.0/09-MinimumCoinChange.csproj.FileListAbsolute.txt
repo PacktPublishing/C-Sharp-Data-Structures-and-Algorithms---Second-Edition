@@ -1,0 +1,14 @@
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\bin\Debug\net8.0\09-MinimumCoinChange.exe
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\bin\Debug\net8.0\09-MinimumCoinChange.deps.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\bin\Debug\net8.0\09-MinimumCoinChange.runtimeconfig.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\bin\Debug\net8.0\09-MinimumCoinChange.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\bin\Debug\net8.0\09-MinimumCoinChange.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\obj\Debug\net8.0\09-MinimumCoinChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\obj\Debug\net8.0\09-MinimumCoinChange.AssemblyInfoInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\obj\Debug\net8.0\09-MinimumCoinChange.AssemblyInfo.cs
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\obj\Debug\net8.0\09-MinimumCoinChange.csproj.CoreCompileInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\obj\Debug\net8.0\09-MinimumCoinChange.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\obj\Debug\net8.0\refint\09-MinimumCoinChange.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\obj\Debug\net8.0\09-MinimumCoinChange.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\obj\Debug\net8.0\09-MinimumCoinChange.genruntimeconfig.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\09-MinimumCoinChange\obj\Debug\net8.0\ref\09-MinimumCoinChange.dll
