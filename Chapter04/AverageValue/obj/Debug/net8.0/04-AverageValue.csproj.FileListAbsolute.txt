@@ -1,0 +1,14 @@
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\bin\Debug\net8.0\04-AverageValue.exe
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\bin\Debug\net8.0\04-AverageValue.deps.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\bin\Debug\net8.0\04-AverageValue.runtimeconfig.json
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\bin\Debug\net8.0\04-AverageValue.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\bin\Debug\net8.0\04-AverageValue.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\obj\Debug\net8.0\04-AverageValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\obj\Debug\net8.0\04-AverageValue.AssemblyInfoInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\obj\Debug\net8.0\04-AverageValue.AssemblyInfo.cs
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\obj\Debug\net8.0\04-AverageValue.csproj.CoreCompileInputs.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\obj\Debug\net8.0\04-AverageValue.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\obj\Debug\net8.0\refint\04-AverageValue.dll
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\obj\Debug\net8.0\04-AverageValue.pdb
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\obj\Debug\net8.0\04-AverageValue.genruntimeconfig.cache
+C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\04-AverageValue\obj\Debug\net8.0\ref\04-AverageValue.dll
