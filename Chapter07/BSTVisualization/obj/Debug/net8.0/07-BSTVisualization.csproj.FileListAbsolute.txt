@@ -16,3 +16,22 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-BSTVisual
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-BSTVisualization\obj\Debug\net8.0\ref\07-BSTVisualization.dll
+F:\MarcinJ\Chapter07\BSTVisualization\bin\Debug\net8.0\07-BSTVisualization.exe
+F:\MarcinJ\Chapter07\BSTVisualization\bin\Debug\net8.0\07-BSTVisualization.deps.json
+F:\MarcinJ\Chapter07\BSTVisualization\bin\Debug\net8.0\07-BSTVisualization.runtimeconfig.json
+F:\MarcinJ\Chapter07\BSTVisualization\bin\Debug\net8.0\07-BSTVisualization.dll
+F:\MarcinJ\Chapter07\BSTVisualization\bin\Debug\net8.0\07-BSTVisualization.pdb
+F:\MarcinJ\Chapter07\BSTVisualization\bin\Debug\net8.0\07-Tree.dll
+F:\MarcinJ\Chapter07\BSTVisualization\bin\Debug\net8.0\07-Tree.pdb
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.csproj.AssemblyReference.cache
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.AssemblyInfo.cs
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.sourcelink.json
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVi.77B76A27.Up2Date
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.dll
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\refint\07-BSTVisualization.dll
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.pdb
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\07-BSTVisualization.genruntimeconfig.cache
+F:\MarcinJ\Chapter07\BSTVisualization\obj\Debug\net8.0\ref\07-BSTVisualization.dll
