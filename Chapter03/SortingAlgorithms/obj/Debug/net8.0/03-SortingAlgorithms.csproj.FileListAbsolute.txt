@@ -12,3 +12,18 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\03-SortingAl
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\03-SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\03-SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\03-SortingAlgorithms\obj\Debug\net8.0\ref\03-SortingAlgorithms.dll
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.AssemblyInfo.cs
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.sourcelink.json
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.dll
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\refint\03-SortingAlgorithms.dll
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.pdb
+F:\MarcinJ\Chapter03\SortingAlgorithms\bin\Debug\net8.0\03-SortingAlgorithms.exe
+F:\MarcinJ\Chapter03\SortingAlgorithms\bin\Debug\net8.0\03-SortingAlgorithms.deps.json
+F:\MarcinJ\Chapter03\SortingAlgorithms\bin\Debug\net8.0\03-SortingAlgorithms.runtimeconfig.json
+F:\MarcinJ\Chapter03\SortingAlgorithms\bin\Debug\net8.0\03-SortingAlgorithms.dll
+F:\MarcinJ\Chapter03\SortingAlgorithms\bin\Debug\net8.0\03-SortingAlgorithms.pdb
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\03-SortingAlgorithms.genruntimeconfig.cache
+F:\MarcinJ\Chapter03\SortingAlgorithms\obj\Debug\net8.0\ref\03-SortingAlgorithms.dll
