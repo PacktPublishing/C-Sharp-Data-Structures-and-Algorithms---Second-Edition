@@ -16,3 +16,22 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-SimpleQui
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-SimpleQuiz\obj\Debug\net8.0\ref\07-SimpleQuiz.dll
+F:\MarcinJ\Chapter07\SimpleQuiz\bin\Debug\net8.0\07-SimpleQuiz.exe
+F:\MarcinJ\Chapter07\SimpleQuiz\bin\Debug\net8.0\07-SimpleQuiz.deps.json
+F:\MarcinJ\Chapter07\SimpleQuiz\bin\Debug\net8.0\07-SimpleQuiz.runtimeconfig.json
+F:\MarcinJ\Chapter07\SimpleQuiz\bin\Debug\net8.0\07-SimpleQuiz.dll
+F:\MarcinJ\Chapter07\SimpleQuiz\bin\Debug\net8.0\07-SimpleQuiz.pdb
+F:\MarcinJ\Chapter07\SimpleQuiz\bin\Debug\net8.0\07-Tree.dll
+F:\MarcinJ\Chapter07\SimpleQuiz\bin\Debug\net8.0\07-Tree.pdb
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.csproj.AssemblyReference.cache
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.AssemblyInfo.cs
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.sourcelink.json
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-Simpl.DD94FAB4.Up2Date
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.dll
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\refint\07-SimpleQuiz.dll
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.pdb
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\07-SimpleQuiz.genruntimeconfig.cache
+F:\MarcinJ\Chapter07\SimpleQuiz\obj\Debug\net8.0\ref\07-SimpleQuiz.dll

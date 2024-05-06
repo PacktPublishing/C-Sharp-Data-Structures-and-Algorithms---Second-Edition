@@ -16,3 +16,22 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-CompanySt
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-CompanyStructure\obj\Debug\net8.0\ref\07-CompanyStructure.dll
+F:\MarcinJ\Chapter07\CompanyStructure\bin\Debug\net8.0\07-CompanyStructure.exe
+F:\MarcinJ\Chapter07\CompanyStructure\bin\Debug\net8.0\07-CompanyStructure.deps.json
+F:\MarcinJ\Chapter07\CompanyStructure\bin\Debug\net8.0\07-CompanyStructure.runtimeconfig.json
+F:\MarcinJ\Chapter07\CompanyStructure\bin\Debug\net8.0\07-CompanyStructure.dll
+F:\MarcinJ\Chapter07\CompanyStructure\bin\Debug\net8.0\07-CompanyStructure.pdb
+F:\MarcinJ\Chapter07\CompanyStructure\bin\Debug\net8.0\07-Tree.dll
+F:\MarcinJ\Chapter07\CompanyStructure\bin\Debug\net8.0\07-Tree.pdb
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.csproj.AssemblyReference.cache
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.AssemblyInfo.cs
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.sourcelink.json
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-Compa.755C690F.Up2Date
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.dll
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\refint\07-CompanyStructure.dll
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.pdb
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\07-CompanyStructure.genruntimeconfig.cache
+F:\MarcinJ\Chapter07\CompanyStructure\obj\Debug\net8.0\ref\07-CompanyStructure.dll

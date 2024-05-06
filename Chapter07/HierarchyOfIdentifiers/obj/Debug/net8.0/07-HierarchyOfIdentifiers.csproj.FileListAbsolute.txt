@@ -16,3 +16,22 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-Hierarchy
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-HierarchyOfIdentifiers\obj\Debug\net8.0\ref\07-HierarchyOfIdentifiers.dll
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\bin\Debug\net8.0\07-HierarchyOfIdentifiers.exe
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\bin\Debug\net8.0\07-HierarchyOfIdentifiers.deps.json
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\bin\Debug\net8.0\07-HierarchyOfIdentifiers.runtimeconfig.json
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\bin\Debug\net8.0\07-HierarchyOfIdentifiers.dll
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\bin\Debug\net8.0\07-HierarchyOfIdentifiers.pdb
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\bin\Debug\net8.0\07-Tree.dll
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\bin\Debug\net8.0\07-Tree.pdb
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.csproj.AssemblyReference.cache
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.AssemblyInfo.cs
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.sourcelink.json
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-Hiera.B08658C5.Up2Date
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.dll
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\refint\07-HierarchyOfIdentifiers.dll
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.pdb
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\07-HierarchyOfIdentifiers.genruntimeconfig.cache
+F:\MarcinJ\Chapter07\HierarchyOfIdentifiers\obj\Debug\net8.0\ref\07-HierarchyOfIdentifiers.dll

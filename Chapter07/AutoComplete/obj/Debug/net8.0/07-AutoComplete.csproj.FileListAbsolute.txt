@@ -13,3 +13,19 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-AutoCompl
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-AutoComplete\obj\Debug\net8.0\07-AutoComplete.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-AutoComplete\obj\Debug\net8.0\07-AutoComplete.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\07-AutoComplete\obj\Debug\net8.0\ref\07-AutoComplete.dll
+F:\MarcinJ\Chapter07\AutoComplete\bin\Debug\net8.0\07-AutoComplete.exe
+F:\MarcinJ\Chapter07\AutoComplete\bin\Debug\net8.0\Countries.txt
+F:\MarcinJ\Chapter07\AutoComplete\bin\Debug\net8.0\07-AutoComplete.deps.json
+F:\MarcinJ\Chapter07\AutoComplete\bin\Debug\net8.0\07-AutoComplete.runtimeconfig.json
+F:\MarcinJ\Chapter07\AutoComplete\bin\Debug\net8.0\07-AutoComplete.dll
+F:\MarcinJ\Chapter07\AutoComplete\bin\Debug\net8.0\07-AutoComplete.pdb
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\07-AutoComplete.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\07-AutoComplete.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\07-AutoComplete.AssemblyInfo.cs
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\07-AutoComplete.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\07-AutoComplete.sourcelink.json
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\07-AutoComplete.dll
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\refint\07-AutoComplete.dll
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\07-AutoComplete.pdb
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\07-AutoComplete.genruntimeconfig.cache
+F:\MarcinJ\Chapter07\AutoComplete\obj\Debug\net8.0\ref\07-AutoComplete.dll
