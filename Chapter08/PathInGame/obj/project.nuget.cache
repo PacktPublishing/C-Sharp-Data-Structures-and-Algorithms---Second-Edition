@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4wfxsJ2IEtTGvD9u1E4eAGfa0miB09GFSFx89GdwJdelX8AHLoXw7uwTuuX6bpGwVYbZg89l24/TAZEwHd6zDQ==",
+  "dgSpecHash": "wvXb6DUualpKfbEJxIEsM7yH4ts/Lu5e5WJsYCTkCBBAsZyE6QT2Xlcpk21IqvGKhL93sA+yzZCfk9U2vZ+ARQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RajdeepChakraborty\\OneDrive - Packt\\Documents\\B18069\\Codes\\08-PathInGame\\08-PathInGame.csproj",
+  "projectFilePath": "F:\\MarcinJ\\Chapter08\\PathInGame\\08-PathInGame.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\RajdeepChakraborty\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+    "C:\\Users\\ianko\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
   ],
   "logs": []
 }

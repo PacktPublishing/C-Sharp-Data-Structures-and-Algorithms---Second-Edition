@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "roDsummy13doJZa9WJyzXK1Nbt94prYBY7NiCzD0DqfCk9NLznHAClprc1pmBToYXbrkGBOrpobVnmYfe75CmQ==",
+  "dgSpecHash": "UXehFOLBC//en19/7IQMzT1s9U//nKBbOS89zxAjTtoYGftSfesSEAmYwNXPw/5je4pZ/uvpHV9rWWr6Y1TvgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RajdeepChakraborty\\OneDrive - Packt\\Documents\\B18069\\Codes\\08-Graph\\08-Graph.csproj",
+  "projectFilePath": "F:\\MarcinJ\\Chapter08\\Graph\\08-Graph.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\RajdeepChakraborty\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+    "C:\\Users\\ianko\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
   ],
   "logs": []
 }

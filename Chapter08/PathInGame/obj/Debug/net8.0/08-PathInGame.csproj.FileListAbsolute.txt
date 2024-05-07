@@ -17,3 +17,23 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-PathInGam
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-PathInGame\obj\Debug\net8.0\08-PathInGame.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-PathInGame\obj\Debug\net8.0\08-PathInGame.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-PathInGame\obj\Debug\net8.0\ref\08-PathInGame.dll
+F:\MarcinJ\Chapter08\PathInGame\bin\Debug\net8.0\08-PathInGame.exe
+F:\MarcinJ\Chapter08\PathInGame\bin\Debug\net8.0\08-PathInGame.deps.json
+F:\MarcinJ\Chapter08\PathInGame\bin\Debug\net8.0\08-PathInGame.runtimeconfig.json
+F:\MarcinJ\Chapter08\PathInGame\bin\Debug\net8.0\08-PathInGame.dll
+F:\MarcinJ\Chapter08\PathInGame\bin\Debug\net8.0\08-PathInGame.pdb
+F:\MarcinJ\Chapter08\PathInGame\bin\Debug\net8.0\PriorityQueue.dll
+F:\MarcinJ\Chapter08\PathInGame\bin\Debug\net8.0\08-Graph.dll
+F:\MarcinJ\Chapter08\PathInGame\bin\Debug\net8.0\08-Graph.pdb
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathInGame.csproj.AssemblyReference.cache
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathInGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathInGame.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathInGame.AssemblyInfo.cs
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathInGame.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathInGame.sourcelink.json
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathI.8A21C203.Up2Date
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathInGame.dll
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\refint\08-PathInGame.dll
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathInGame.pdb
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\08-PathInGame.genruntimeconfig.cache
+F:\MarcinJ\Chapter08\PathInGame\obj\Debug\net8.0\ref\08-PathInGame.dll
