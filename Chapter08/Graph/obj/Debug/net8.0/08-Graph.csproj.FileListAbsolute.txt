@@ -10,3 +10,16 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-Graph\obj
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-Graph\obj\Debug\net8.0\refint\08-Graph.dll
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-Graph\obj\Debug\net8.0\08-Graph.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-Graph\obj\Debug\net8.0\ref\08-Graph.dll
+F:\MarcinJ\Chapter08\Graph\bin\Debug\net8.0\08-Graph.deps.json
+F:\MarcinJ\Chapter08\Graph\bin\Debug\net8.0\08-Graph.dll
+F:\MarcinJ\Chapter08\Graph\bin\Debug\net8.0\08-Graph.pdb
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\08-Graph.csproj.AssemblyReference.cache
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\08-Graph.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\08-Graph.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\08-Graph.AssemblyInfo.cs
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\08-Graph.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\08-Graph.sourcelink.json
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\08-Graph.dll
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\refint\08-Graph.dll
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\08-Graph.pdb
+F:\MarcinJ\Chapter08\Graph\obj\Debug\net8.0\ref\08-Graph.dll

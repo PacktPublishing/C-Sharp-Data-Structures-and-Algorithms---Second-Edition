@@ -17,3 +17,23 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-Undirecte
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-UndirectedUnweightedEdges\obj\Debug\net8.0\ref\08-UndirectedUnweightedEdges.dll
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\bin\Debug\net8.0\08-UndirectedUnweightedEdges.exe
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\bin\Debug\net8.0\08-UndirectedUnweightedEdges.deps.json
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\bin\Debug\net8.0\08-UndirectedUnweightedEdges.runtimeconfig.json
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\bin\Debug\net8.0\08-UndirectedUnweightedEdges.dll
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\bin\Debug\net8.0\08-UndirectedUnweightedEdges.pdb
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\bin\Debug\net8.0\PriorityQueue.dll
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\bin\Debug\net8.0\08-Graph.dll
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\bin\Debug\net8.0\08-Graph.pdb
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.csproj.AssemblyReference.cache
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.AssemblyInfo.cs
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.sourcelink.json
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-Undir.6B7398A3.Up2Date
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.dll
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\refint\08-UndirectedUnweightedEdges.dll
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.pdb
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\08-UndirectedUnweightedEdges.genruntimeconfig.cache
+F:\MarcinJ\Chapter08\UndirectedUnweightedEdges\obj\Debug\net8.0\ref\08-UndirectedUnweightedEdges.dll

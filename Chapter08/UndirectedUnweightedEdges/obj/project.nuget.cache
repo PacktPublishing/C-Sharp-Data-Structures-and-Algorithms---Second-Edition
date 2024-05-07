@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nwYmuy+Ld0GmzJUtlpH4NGLpzxEv7h9GTAHhdLPVpgN3qFjgQq+tNysHIU93NzBOpnHUq01Q0Rvb+7Sl6F8uCA==",
+  "dgSpecHash": "WtdmomuNAUi4k962B+leqjO+7HTFQd+itqH3n/N2CKgIKfTnfpBkd9Vywshdd+ERI9kKRnj4/xZFdwE8PxVcHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RajdeepChakraborty\\OneDrive - Packt\\Documents\\B18069\\Codes\\08-UndirectedUnweightedEdges\\08-UndirectedUnweightedEdges.csproj",
+  "projectFilePath": "F:\\MarcinJ\\Chapter08\\UndirectedUnweightedEdges\\08-UndirectedUnweightedEdges.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\RajdeepChakraborty\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+    "C:\\Users\\ianko\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
   ],
   "logs": []
 }

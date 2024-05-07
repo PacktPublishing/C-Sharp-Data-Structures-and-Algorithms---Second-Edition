@@ -17,3 +17,23 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-Telecommu
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-TelecommunicationCable\obj\Debug\net8.0\ref\08-TelecommunicationCable.dll
+F:\MarcinJ\Chapter08\TelecommunicationCable\bin\Debug\net8.0\08-TelecommunicationCable.exe
+F:\MarcinJ\Chapter08\TelecommunicationCable\bin\Debug\net8.0\08-TelecommunicationCable.deps.json
+F:\MarcinJ\Chapter08\TelecommunicationCable\bin\Debug\net8.0\08-TelecommunicationCable.runtimeconfig.json
+F:\MarcinJ\Chapter08\TelecommunicationCable\bin\Debug\net8.0\08-TelecommunicationCable.dll
+F:\MarcinJ\Chapter08\TelecommunicationCable\bin\Debug\net8.0\08-TelecommunicationCable.pdb
+F:\MarcinJ\Chapter08\TelecommunicationCable\bin\Debug\net8.0\PriorityQueue.dll
+F:\MarcinJ\Chapter08\TelecommunicationCable\bin\Debug\net8.0\08-Graph.dll
+F:\MarcinJ\Chapter08\TelecommunicationCable\bin\Debug\net8.0\08-Graph.pdb
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.csproj.AssemblyReference.cache
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.AssemblyInfo.cs
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.sourcelink.json
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-Telec.D6D9CD6E.Up2Date
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.dll
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\refint\08-TelecommunicationCable.dll
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.pdb
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\08-TelecommunicationCable.genruntimeconfig.cache
+F:\MarcinJ\Chapter08\TelecommunicationCable\obj\Debug\net8.0\ref\08-TelecommunicationCable.dll

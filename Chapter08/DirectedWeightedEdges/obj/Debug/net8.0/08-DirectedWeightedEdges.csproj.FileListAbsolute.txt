@@ -17,3 +17,23 @@ C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-DirectedW
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.pdb
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.genruntimeconfig.cache
 C:\Users\RajdeepChakraborty\OneDrive - Packt\Documents\B18069\Codes\08-DirectedWeightedEdges\obj\Debug\net8.0\ref\08-DirectedWeightedEdges.dll
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\bin\Debug\net8.0\08-DirectedWeightedEdges.exe
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\bin\Debug\net8.0\08-DirectedWeightedEdges.deps.json
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\bin\Debug\net8.0\08-DirectedWeightedEdges.runtimeconfig.json
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\bin\Debug\net8.0\08-DirectedWeightedEdges.dll
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\bin\Debug\net8.0\08-DirectedWeightedEdges.pdb
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\bin\Debug\net8.0\PriorityQueue.dll
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\bin\Debug\net8.0\08-Graph.dll
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\bin\Debug\net8.0\08-Graph.pdb
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.csproj.AssemblyReference.cache
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.AssemblyInfoInputs.cache
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.AssemblyInfo.cs
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.csproj.CoreCompileInputs.cache
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.sourcelink.json
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-Direc.EAAA3310.Up2Date
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.dll
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\refint\08-DirectedWeightedEdges.dll
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.pdb
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\08-DirectedWeightedEdges.genruntimeconfig.cache
+F:\MarcinJ\Chapter08\DirectedWeightedEdges\obj\Debug\net8.0\ref\08-DirectedWeightedEdges.dll
