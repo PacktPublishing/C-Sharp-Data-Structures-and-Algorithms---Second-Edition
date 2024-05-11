@@ -34,8 +34,8 @@ while (true)
 
     for (int i = 0; i < 800; i++)
     {
-        Individual p1 = population[random.Next(40)];
-        Individual p2 = population[random.Next(40)];
+        Individual p1 = population[random.Next(400)];
+        Individual p2 = population[random.Next(400)];
         Individual offspring = Mate(p1, p2);
         generation.Add(offspring);
     }
